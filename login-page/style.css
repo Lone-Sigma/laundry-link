@@ -9,7 +9,7 @@
 }
 body{
     /* background: linear-gradient(#b8abea,#907cd4,#6c4be2); */
-    background: url("/dashboard-page/img/laundry-bg.png");
+    background: url("dashboard-page/img/laundry-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

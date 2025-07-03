@@ -41,7 +41,7 @@ window.adminLogin = async function () {
 
     showToast('success', 'Login successful! Redirecting...');
     setTimeout(() => {
-      window.location.href = "/dashboard-page/index.html";
+      window.location.href = "dashboard-page/index.html";
     }, 2000);
   } catch (error) {
     console.error(error);

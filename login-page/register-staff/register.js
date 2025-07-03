@@ -99,7 +99,7 @@ document.getElementById("registerBtn").addEventListener("click", async (e) => {
 
     // Redirect after delay
     setTimeout(() => {
-      window.location.href = "/login-page/index.html";
+      window.location.href = "login-page/index.html";
     }, 2500);
 
   } catch (error) {

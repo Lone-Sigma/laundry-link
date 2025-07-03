@@ -45,7 +45,7 @@ window.staffLogin = async function () {
 
     showToast('success', 'Login successful! Redirecting...');
     setTimeout(() => {
-      window.location.href = "/staffboard-page/index.html";
+      window.location.href = "staffboard-page/index.html";
     }, 2000);
   } catch (error) {
     console.error(error);
